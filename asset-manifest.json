@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.82a190d9.css",
-    "main.js": "/static/js/main.aa7da19f.js",
-    "static/js/787.e5828a04.chunk.js": "/static/js/787.e5828a04.chunk.js",
-    "static/media/crr-img.jpg": "/static/media/crr-img.0a2d26f4c442aa30c731.jpg",
-    "static/media/emcservices-img.jpg": "/static/media/emcservices-img.fde29065a6ed856bcc22.jpg",
-    "static/media/rvsaircon-img.jpg": "/static/media/rvsaircon-img.d09c16ac8659bb4bcf20.jpg",
-    "static/media/ers-img.jpg": "/static/media/ers-img.83260288488a79f7e35e.jpg",
-    "static/media/saamosa-img.jpg": "/static/media/saamosa-img.b5f674eed3d120a57717.jpg",
-    "static/media/signstamper-img.jpg": "/static/media/signstamper-img.99b633fa6e08a630f795.jpg",
-    "static/media/getcoolthemes-img.png": "/static/media/getcoolthemes-img.42625ea503ee4074aede.png",
-    "index.html": "/index.html",
-    "main.82a190d9.css.map": "/static/css/main.82a190d9.css.map",
-    "main.aa7da19f.js.map": "/static/js/main.aa7da19f.js.map",
-    "787.e5828a04.chunk.js.map": "/static/js/787.e5828a04.chunk.js.map"
+    "main.css": "/getcoolthemes/static/css/main.82a190d9.css",
+    "main.js": "/getcoolthemes/static/js/main.a5dfb8b9.js",
+    "static/js/787.e5828a04.chunk.js": "/getcoolthemes/static/js/787.e5828a04.chunk.js",
+    "static/media/crr-img.jpg": "/getcoolthemes/static/media/crr-img.0a2d26f4c442aa30c731.jpg",
+    "static/media/emcservices-img.jpg": "/getcoolthemes/static/media/emcservices-img.fde29065a6ed856bcc22.jpg",
+    "static/media/rvsaircon-img.jpg": "/getcoolthemes/static/media/rvsaircon-img.d09c16ac8659bb4bcf20.jpg",
+    "static/media/ers-img.jpg": "/getcoolthemes/static/media/ers-img.83260288488a79f7e35e.jpg",
+    "static/media/saamosa-img.jpg": "/getcoolthemes/static/media/saamosa-img.b5f674eed3d120a57717.jpg",
+    "static/media/signstamper-img.jpg": "/getcoolthemes/static/media/signstamper-img.99b633fa6e08a630f795.jpg",
+    "static/media/getcoolthemes-img.png": "/getcoolthemes/static/media/getcoolthemes-img.42625ea503ee4074aede.png",
+    "index.html": "/getcoolthemes/index.html",
+    "main.82a190d9.css.map": "/getcoolthemes/static/css/main.82a190d9.css.map",
+    "main.a5dfb8b9.js.map": "/getcoolthemes/static/js/main.a5dfb8b9.js.map",
+    "787.e5828a04.chunk.js.map": "/getcoolthemes/static/js/787.e5828a04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82a190d9.css",
-    "static/js/main.aa7da19f.js"
+    "static/js/main.a5dfb8b9.js"
   ]
 }
